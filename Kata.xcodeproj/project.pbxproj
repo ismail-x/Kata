@@ -13,6 +13,8 @@
 		EC227A1C25190ED0002DDA26 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC227A1A25190ED0002DDA26 /* Main.storyboard */; };
 		EC227A1E25190ED3002DDA26 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC227A1D25190ED3002DDA26 /* Assets.xcassets */; };
 		EC227A2125190ED3002DDA26 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC227A1F25190ED3002DDA26 /* LaunchScreen.storyboard */; };
+		EC227A2D251A4C52002DDA26 /* level2.txt in Resources */ = {isa = PBXBuildFile; fileRef = EC227A2B251A4C52002DDA26 /* level2.txt */; };
+		EC227A2E251A4C52002DDA26 /* level1.txt in Resources */ = {isa = PBXBuildFile; fileRef = EC227A2C251A4C52002DDA26 /* level1.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		EC227A1D25190ED3002DDA26 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EC227A2025190ED3002DDA26 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EC227A2225190ED3002DDA26 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EC227A2B251A4C52002DDA26 /* level2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = level2.txt; sourceTree = "<group>"; };
+		EC227A2C251A4C52002DDA26 /* level1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = level1.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				EC227A1D25190ED3002DDA26 /* Assets.xcassets */,
 				EC227A1F25190ED3002DDA26 /* LaunchScreen.storyboard */,
 				EC227A2225190ED3002DDA26 /* Info.plist */,
+				EC227A2C251A4C52002DDA26 /* level1.txt */,
+				EC227A2B251A4C52002DDA26 /* level2.txt */,
 			);
 			path = Kata;
 			sourceTree = "<group>";
@@ -124,8 +130,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EC227A2E251A4C52002DDA26 /* level1.txt in Resources */,
 				EC227A2125190ED3002DDA26 /* LaunchScreen.storyboard in Resources */,
 				EC227A1E25190ED3002DDA26 /* Assets.xcassets in Resources */,
+				EC227A2D251A4C52002DDA26 /* level2.txt in Resources */,
 				EC227A1C25190ED0002DDA26 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
